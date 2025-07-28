@@ -1,0 +1,30 @@
+{
+  "title": "Welcome to the “Connecting the Dots” Challenge",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Welcome to the “Connecting the Dots” Challenge",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Round 1 A: Understand Your Document",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Round 1 B: Persona-Driven Document Intelligence",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Appendix:",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Hackathon 25.git",
+      "page": 10
+    }
+  ]
+}
